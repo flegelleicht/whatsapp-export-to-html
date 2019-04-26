@@ -51,6 +51,7 @@ File.open("chat.html", "w") do |file|
   <html>
     <head>
       <title>Chat</title>
+      <meta charset=\"utf-8\">
       <style>
         *{font-family:sans-serif; line-height:1.5;}
         table{width:100%; border-collapse:collapse;}
